@@ -1,0 +1,28 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+table {
+    width: 100vw;
+    height: 100vh;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 2vw;
+    font-weight: bold;
+}
+
+.first {
+    background-color: lightgreen;
+    width: 50%;
+}
+
+.second {
+    background-color: lightcoral;
+    width: 50%;
+}
